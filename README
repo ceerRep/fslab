@@ -1,5 +1,5 @@
 ###################################################
-FS-Lab designed and implemented by Liang Junkai,RUC
+FS-Lab designed and implemented by ceerRep,RUC
 ###################################################
 
 disk.c   Including the functions that simulate a virtual block device.You shouldn't modify anything in this file.
